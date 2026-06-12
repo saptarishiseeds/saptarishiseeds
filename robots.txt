@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://saptarishiseeds.in/sitemap.xml
